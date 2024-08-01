@@ -1,0 +1,10 @@
+POST http://localhost:8080/product HTTP/1.1
+content-type: application/json
+
+{
+    "sku": "15454541",
+    "name": "Trident Menta",
+    "stock": 50,
+    "cost": 1.00,
+    "price": 2.5
+}
