@@ -1,4 +1,3 @@
-import { CacheRepository } from "../../../shared/cache/cache.repository";
 import { Result, ResultDTO } from "../../../shared/utils";
 import { CreateProductDto } from "../dto";
 import { ProductRepository } from "../repository";
